@@ -1,0 +1,11 @@
+body{
+            background-color:aqua;
+            background: url('image.jpg')
+
+        
+        }
+htmll,
+    *{
+        margin:0;
+        padding: 0;
+        box-sizing: border-box;}
